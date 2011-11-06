@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/test_lib_json
+END
+jsontest.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/test_lib_json/jsontest.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/test_lib_json/main.cpp
+END
+sconscript
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/test_lib_json/sconscript
+END
+jsontest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/test_lib_json/jsontest.cpp
+END

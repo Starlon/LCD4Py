@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 90
+buildscons
+bin
+scons-local-0.96.92
+env.bat
+scons.py
+sconsign.py
+libs
+build
+dist
+resources
+
+END

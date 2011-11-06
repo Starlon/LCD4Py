@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jsoncpp/!svn/ver/191/tags/jsoncpp/0.6.0-rc2/include/json
+END
+json.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jsoncpp/!svn/ver/191/tags/jsoncpp/0.6.0-rc2/include/json/json.h
+END
+value.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jsoncpp/!svn/ver/191/tags/jsoncpp/0.6.0-rc2/include/json/value.h
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jsoncpp/!svn/ver/191/tags/jsoncpp/0.6.0-rc2/include/json/writer.h
+END
+features.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jsoncpp/!svn/ver/191/tags/jsoncpp/0.6.0-rc2/include/json/features.h
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jsoncpp/!svn/ver/191/tags/jsoncpp/0.6.0-rc2/include/json/reader.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jsoncpp/!svn/ver/191/tags/jsoncpp/0.6.0-rc2/include/json/config.h
+END
+autolink.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jsoncpp/!svn/ver/191/tags/jsoncpp/0.6.0-rc2/include/json/autolink.h
+END
+forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jsoncpp/!svn/ver/191/tags/jsoncpp/0.6.0-rc2/include/json/forwards.h
+END

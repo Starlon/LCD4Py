@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json
+END
+json_valueiterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json/json_valueiterator.inl
+END
+json_batchallocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json/json_batchallocator.h
+END
+json_internalmap.inl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json/json_internalmap.inl
+END
+json_internalarray.inl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json/json_internalarray.inl
+END
+json_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json/json_value.cpp
+END
+json_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json/json_writer.cpp
+END
+sconscript
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json/sconscript
+END
+json_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json/json_reader.cpp
+END
+json_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/src/lib_json/json_tool.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/scons-tools
+END
+srcdist.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/scons-tools/srcdist.py
+END
+globtool.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/scons-tools/globtool.py
+END
+substinfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/scons-tools/substinfile.py
+END
+targz.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/scons-tools/targz.py
+END

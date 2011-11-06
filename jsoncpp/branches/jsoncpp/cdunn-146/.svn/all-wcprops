@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/AUTHORS
+END
+makerelease.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/makerelease.py
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/version
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/SConstruct
+END
+NEWS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/NEWS.txt
+END
+doxybuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/doxybuild.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/README.txt
+END

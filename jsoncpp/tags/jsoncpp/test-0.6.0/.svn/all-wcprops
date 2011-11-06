@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/AUTHORS
+END
+makerelease.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/makerelease.py
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/version
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/SConstruct
+END
+NEWS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/NEWS.txt
+END
+doxybuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/doxybuild.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jsoncpp/!svn/ver/172/tags/jsoncpp/test-0.6.0/README.txt
+END

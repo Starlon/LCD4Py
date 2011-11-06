@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/devtools
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/devtools/__init__.py
+END
+tarball.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/devtools/tarball.py
+END
+antglob.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/devtools/antglob.py
+END
+fixeol.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jsoncpp/!svn/ver/147/branches/jsoncpp/cdunn-146/devtools/fixeol.py
+END
