@@ -1057,10 +1057,13 @@ def start():
 			if debug: print "Number: %g, Expression: %s" % (evaluator.R2N(result), expression)
 		elif result.type == R_STRING:
 			#print "String: '%s', Expression: %s" % (result.string, expression), [result.string]
+			pass
 		elif result.type == (R_NUMBER | R_STRING):
 			#print "String: '%s' Number: (%g), Expression: %s" % (evaluator.R2S(result), evaluator.R2N(result), expression)
+			pass
 		else:
 			#print "internal error: unknown result type %d, Expression: %s" % (result.type, expression)
+			pass
 		time.sleep(.5)
 
 if __name__ == "__main__":
